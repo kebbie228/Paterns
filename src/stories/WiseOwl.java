@@ -1,6 +1,5 @@
-package com.company;
+package stories;
 
-import java.util.SortedMap;
 //шаблоны: порождающие, поведенческие, структурные
 //одиночка
 public class WiseOwl {

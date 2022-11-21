@@ -1,6 +1,4 @@
-package com.company;
-
-import java.awt.*;
+package stories;
 
 //bridge
 //https://www.momjunction.com/articles/the-lion-and-the-hare-story-for-your-kids_0095877/

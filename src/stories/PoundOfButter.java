@@ -1,7 +1,4 @@
-package com.company;
-
-import javax.sound.midi.Soundbank;
-import java.lang.invoke.SwitchPoint;
+package stories;
 
 //factory method - пораждающий шаблон
 public class PoundOfButter {
